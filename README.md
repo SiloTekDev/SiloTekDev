@@ -27,7 +27,7 @@ all systems nominal.
 
 ### 🛰️ What we build
 
-- **[OmniPanel](https://silotek.dev/omnipanel)** — read-only server-intelligence dashboards: live players, character profiles, economy analytics, logs and a live map, streamed from your server over a protected API.
+- **[OmniPanel](https://omnipanel.silotek.dev)** — read-only server-intelligence dashboards: live players, character profiles, economy analytics, logs and a live map, streamed from your server over a protected API.
 - **[Hosting](https://hosting.silotek.dev)** — premium game-server hosting on AMD Ryzen X3D hardware with dedicated resources, daily backups and OmniPanel monitoring included.
 - **[RootOps](https://silotek.dev/rootops)** — custom systems engineered to spec: game scripts & mods, Discord bots, private APIs, automation and licensed cloud delivery.
 
